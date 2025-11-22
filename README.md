@@ -59,16 +59,26 @@ at Coles. Shop there to save time!
 
 ## 📦 Installation
 
-### 1. Clone the Repository
-```bash
+🛠️ Development Setup
+This project uses uv for modern, high-performance dependency management.
+Prerequisites
+uv installed (curl -LsSf https://astral.sh/uv/install.sh | sh)
+Quick Start
+code
+Bash
+# 1. Clone the repository
 git clone https://github.com/yourusername/smart-shopping-assistant.git
 cd smart-shopping-assistant
-```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+# 2. Sync dependencies (creates virtualenv automatically)
+uv sync
+
+# 3. Set up environment variables
+cp .env.example .env
+# (Edit .env with your API keys)
+
+# 4. Run the application
+uv run src/main.py
 
 ### 3. Set Up API Keys
 
