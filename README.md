@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built as a learning project exploring AI applications in everyday life
 - Inspired by the high cost of living in Australia and the need for smarter shopping tools
-- Thanks to Anthropic's Claude for development assistance
+
 
 
 ## ⚠️ Disclaimer
