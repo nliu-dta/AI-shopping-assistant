@@ -50,7 +50,7 @@ at Coles. Shop there to save time!
 
 ## 🛠️ Tech Stack
 
-- **Python 3.8+**
+- **Python 3.10+**
 - **Google Maps Places API (New)**: Location-based store discovery
 - **SerpAPI**: Google Shopping price scraping
 - **Google Gemini AI**: Intelligent recommendation engine
