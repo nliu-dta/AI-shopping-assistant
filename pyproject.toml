@@ -6,7 +6,7 @@ authors = [
     {name = "NLIU-DTA ", email = "nliuecu@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = {text = "MIT"}
 
 dependencies = [
