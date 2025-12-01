@@ -5,10 +5,9 @@ Location-aware AI-powered shopping recommendations for Australian shoppers
 
 import os
 from dotenv import load_dotenv
-from .location import find_nearby_stores
-from .pricing import get_prices
-from .ai_recommender import generate_shopping_list
-
+from location import find_nearby_stores
+from pricing import get_prices
+from ai_recommender import generate_shopping_list
 # Load environment variables
 load_dotenv()
 
