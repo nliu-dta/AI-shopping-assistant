@@ -22,7 +22,7 @@ def generate_shopping_list(location: str, stores: list[str],
         return "❌ GEMINI_KEY not found in environment"
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    model = genai.GenerativeModel('gemini-2.5-pro')
     
     # Build context for AI
     summary = f"Location: {location}\n"
