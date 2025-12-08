@@ -13,9 +13,20 @@ load_dotenv()
 
 # Product list
 MY_PRODUCTS = [
-    "Omo Liquid 2L",
-    "Colgate Toothpaste 110g",
-    "Pantene Shampoo 375ml"
+    "2kg white rice",
+    "2kg  of pasta",
+    "1kg of rolled oats",
+    "Whole-wheat bread",
+    "Cooking oil",
+    "1 kg Lean beef mince",
+    "1kg chickren breast",
+    "Eggs",
+    "1kg potatoes",
+    "1kg onions",
+    "1kg apple",
+    "1kg bananna",
+    "3L full cream milk",
+    "1kg cheese block"
 ]
 
 
