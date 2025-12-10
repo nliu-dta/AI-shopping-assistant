@@ -180,26 +180,6 @@ For typical weekly shopping (checking ~10 products once per week):
 - ✅ Billing alerts set at $10/month
 - ✅ Rate limiting implemented
 
-## 🤝 Contributing
-
-Contributions are welcome! Here are some ideas:
-
-- [ ] Add support for more retailers (Costco, Amazon AU)
-- [ ] Implement price history tracking
-- [ ] Add weekly catalogue specials detection
-- [ ] Create web interface with Flask/Streamlit
-- [ ] Mobile app version
-- [ ] Unit price comparison ($/kg, $/L)
-- [ ] Shopping budget calculator
-- [ ] Multi-user comparison (family sharing)
-
-### How to Contribute
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -216,15 +196,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This tool is for personal use only. Please respect the terms of service of all APIs used. Price data may not always be accurate or up-to-date. Always verify prices at the store.
 
-## 🔮 Future Roadmap
-
-- **Q1 2025**: Add price history and trend analysis
-- **Q2 2025**: Integrate with major retailer APIs (if available)
-- **Q3 2025**: Mobile app development
-- **Q4 2025**: Community features (shared shopping lists, deal alerts)
-
 ---
 
 **Made with ❤️ in Australia 🇦🇺**
 
-*Last updated: November 2024*
+*Last updated: Dec 2025*
